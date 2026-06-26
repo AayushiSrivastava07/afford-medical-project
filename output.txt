@@ -1,0 +1,10 @@
+{'ID': '143e6c8f-99de-4230-83f0-08ea27d36a44', 'Type': 'Placement', 'Message': 'Advanced Micro Devices Inc. hiring', 'Timestamp': '2026-06-26 05:12:43'}
+{'ID': 'be860cfe-3c07-4f6d-bb13-6c1a802ea0fd', 'Type': 'Placement', 'Message': 'Berkshire Hathaway Inc. hiring', 'Timestamp': '2026-06-26 05:12:07'}
+{'ID': '8f79e9d9-1cf0-4533-878b-d006251cf9da', 'Type': 'Placement', 'Message': 'Apple Inc. hiring', 'Timestamp': '2026-06-25 19:14:49'}
+{'ID': 'fde79cd6-b3e0-4721-84b7-a4da05aeca2a', 'Type': 'Placement', 'Message': 'Advanced Micro Devices Inc. hiring', 'Timestamp': '2026-06-25 17:43:28'}
+{'ID': 'e94760e7-ccac-4a02-babd-362acaab930a', 'Type': 'Placement', 'Message': 'Alphabet Inc. Class C hiring', 'Timestamp': '2026-06-25 16:43:37'}
+{'ID': 'd70a738f-9611-46ca-8901-20155dd2b2df', 'Type': 'Placement', 'Message': 'Booking Holdings Inc. hiring', 'Timestamp': '2026-06-25 15:42:52'}
+{'ID': '5dcf8fbc-dfa5-4d1f-bfa4-c6be943fa25f', 'Type': 'Placement', 'Message': 'Amgen Inc. hiring', 'Timestamp': '2026-06-25 13:13:46'}
+{'ID': '6169dd0a-917d-4c35-a164-df3301e71c87', 'Type': 'Placement', 'Message': 'Marvell Technology Inc. hiring', 'Timestamp': '2026-06-25 12:14:13'}
+{'ID': 'fa66cf28-5254-4025-b82c-4abbadb85a90', 'Type': 'Placement', 'Message': 'Marvell Technology Inc. hiring', 'Timestamp': '2026-06-25 09:14:22'}
+{'ID': '4f3f524b-0adc-4b1a-b392-84e784c8ed78', 'Type': 'Result', 'Message': 'external', 'Timestamp': '2026-06-26 03:13:19'}
